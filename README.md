@@ -1,5 +1,5 @@
 # Multi-view 3D Reconstruction
-This repo is for our course project for the course GNR 638. Our project is inspired by the paper *[Robust Attentional Aggregation of Deep Feature Sets for Multi-view 3D Reconstruction]*(https://arxiv.org/abs/1808.00758). We have successfully implemented and tested the Attsets model and FASet algorithm proposed in the paper.
+This repo is for our course project for the course GNR 638. Our project is inspired by the paper [*Robust Attentional Aggregation of Deep Feature Sets for Multi-view 3D Reconstruction*](https://arxiv.org/abs/1808.00758). We have successfully implemented and tested the Attsets model and FASet algorithm proposed in the paper.
 
 # Contents
 1. The repo contains the notebook, **Multi_view_3D_Reconstruction.ipynb**. The notebook contains:
