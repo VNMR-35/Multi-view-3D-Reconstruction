@@ -12,9 +12,9 @@ This repo is for our course project for the course GNR 638. Our project is inspi
 6. **LICENSE**
 
 # Results
-![S1](/readme_images/S1.jpg=500x500)
-![S2](/readme_images/S2.jpg=500x500)
-![S3](/readme_images/S3.jpg=500x500)
+![S1](/readme_images/S1.jpg =500x500)
+![S2](/readme_images/S2.jpg =500x500)
+![S3](/readme_images/S3.jpg =500x500)
 
 # Papers
 * [Robust Attentional Aggregation of Deep Feature Sets for Multi-view 3D Reconstruction](https://arxiv.org/abs/1808.00758)
