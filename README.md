@@ -9,6 +9,7 @@ This repo is for our course project for the course GNR 638. Our project is inspi
 3. **binvox_rw**
 4. The folder **Data_sample**: Contains the training dataset and original 3D Model for comparison.
 5. The folder **Model_released**: Trained on [3D-R2N2 dataset, 70M](https://drive.google.com/open?id=1A1ihqMDfZLrjQeCFWEjgp-WYb810_om-)
+    The [3D-R2N2 github page](https://github.com/chrischoy/3D-R2N2).
 6. **LICENSE**
 
 # Results
