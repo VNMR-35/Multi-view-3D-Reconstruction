@@ -1,7 +1,10 @@
-# Multi-view-3D-Reconstruction
-This repo is for our course project for the course GNR 638. We have implemented the Attsets algorithm for Multi-view 3D Reconstruction. Our project is inspired by ...
+# Multi-view 3D Reconstruction
+This repo is for our course project for the course GNR 638. We have implemented the Attsets algorithm for Multi-view 3D Reconstruction. Our project is inspired by the paper **Hyperlink**'Robust Attentional Aggregation of Deep Feature Sets for Multi-view 3D Reconstruction'. We have successfully implemented and tested the Attsets model and FASet algorithm proposed in the paper.
 
-The repo contains a .ipynb notebook and two .py files:
+# Contents
+The repo contains the notebook, Multi_view_3D_Reconstruction.ipynb. The notebook contains:
+* ncn
+* dnknjsc
 
     1. - Has the training module and the testing code.
     2. binvox.py - 
@@ -15,5 +18,5 @@ The folder ... contains the data:
 
 The folder Model released 
 
-# Citations:
+# Citations
 5 links
