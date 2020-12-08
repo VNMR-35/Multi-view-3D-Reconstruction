@@ -3,10 +3,9 @@ This repo is for our course project for the course GNR 638. We have implemented 
 
 # Contents
 The repo contains the notebook, Multi_view_3D_Reconstruction.ipynb. The notebook contains:
-* ncn
-* dnknjsc
-
-    1. - Has the training module and the testing code.
+1. som
+2. bjf
+    1. Has the training module and the testing code.
     2. binvox.py - 
     3. tools1.py - 
 
